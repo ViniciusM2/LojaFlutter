@@ -12,6 +12,6 @@ App de Loja Virtual feito com Flutter. Trata-se de um resultado da prática do c
 
 Para testar a aplicação, os códigos aqui expostos devem ser colocados na pasta lib de um projeto Flutter gerado pela linha de comando ou pela sua IDE favorita.
 
-Também deve ser criado e associado a um projeto no Firebase, saiba como em https://firebase.google.com/docs/android/setup.
-
 Caso não tenha o Flutter, saiba como obtê-lo: https://flutter.dev/docs/get-started/install
+
+Também deve ser criado e associado a um projeto no Firebase, saiba como em https://firebase.google.com/docs/android/setup.
